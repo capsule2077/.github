@@ -52,6 +52,11 @@ This repository aims to track these valuable contributions. The evolving family 
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/RT-DETRs/RT-DETRv4)  [![arXiv](https://img.shields.io/badge/Arxiv-2510.25257-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.25257) <br>
 
 
+> [**EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation**](https://arxiv.org/abs/2603.18739) <br>
+> Longfei Liu<sup>* </sup>, Yongjie Hou<sup>* </sup>, Yang Li<sup>* </sup>, Qirui Wang<sup>* </sup>, Youyang Sha, Yongjun Yu, Yinzhi Wang, Peizhe Ru, Xuanlong Yu, Xi Shen <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/Intellindust-AI-Lab/EdgeCrafter)  [![arXiv](https://img.shields.io/badge/Arxiv-2603.18739-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2603.18739) <br>
+
+
 *(We will update this list as new contributions are published. If you have a work that belongs here, please open a pull request!)*
 
 ## 🔮 Future Outlook
